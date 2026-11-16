@@ -1,0 +1,65 @@
+# BookAppp Privacy Policy
+
+Last updated: November 15, 2026
+
+This policy explains what BookAppp does with information. BookAppp is a local e-book reader for Android.
+
+# 1. The short version
+
+BookAppp does not collect, transmit, or sell personal data. There is no account to create, no advertising, no analytics, and no crash reporting. Everything you read, and everything the app remembers about your reading, stays on your device.
+
+# 2. What the app stores on your device
+
+- The books you import, as a copy in the app's private storage
+- Cover images extracted from those books
+- Your reading position and progress in each book
+- Bookmarks, highlights, and notes you create
+- Reading settings: theme, font, text size, margins, line spacing, and brightness
+
+This information never leaves your device through the app. It exists so the app can reopen your books where you left off.
+
+# 3. What the app does not collect
+
+- No name, email address, or phone number
+- No account, sign-in, or profile
+- No usage analytics, telemetry, or event tracking
+- No advertising identifier and no advertising SDK
+- No crash reports or diagnostics sent anywhere
+- No location, contacts, calendar, microphone, or camera access
+- No access to files other than the one you pick in the system file chooser
+
+# 4. Network access
+
+BookAppp is built without the Android internet permission, so it cannot make network requests. Your library, reading positions, and settings stay on your device.
+
+# 5. Permissions
+
+The app does not request broad storage permissions. It uses the Android Storage Access Framework, which lets you choose a single file; the app then copies that file into its own private storage. That copy is what the library reads afterwards.
+
+# 6. Device backup
+
+Android can back up app data if you have backup turned on in your device settings. If so, the system, not BookAppp, may include the app's local data in your backup so it can be restored on a new device. That backup is controlled by your Android and Google account settings. You can turn backup off for BookAppp in your device's system settings.
+
+# 7. Deleting your data
+
+Removing a book deletes the app's copy of the file along with its reading position, bookmarks, highlights, and notes. Uninstalling the app deletes all of its local data. Because nothing is stored on a server, there is no separate deletion request to make.
+
+# 8. Children
+
+BookAppp collects no personal data from anyone, including children. The app is a general-purpose reader and is not directed at children.
+
+# 9. Support email
+
+If you choose to email support, we receive your email address and whatever you write in the message. We use it only to answer your question and keep it only as long as needed for that. We do not add you to a mailing list or share your message with anyone else.
+
+# 10. Third-party components
+
+The app includes open-source libraries, listed with their licence texts under Settings > Open-source licenses. These libraries run locally on your device. The app does not include third-party advertising, analytics, or tracking SDKs.
+
+# 11. Changes to this policy
+
+If the app's data practices change, this policy will be updated and the date at the top will change. Material changes will be shown in the app before they take effect.
+
+# 12. Contact
+
+Privacy questions can be sent to support@bookappp.app.

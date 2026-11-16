@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">BookAppp</string>
+
+    <!-- Library screen -->
+    <string name="library_title">Library</string>
+    <string name="library_empty_message">No books yet</string>
+    <string name="library_empty_hint">Tap + to add an EPUB or PDF</string>
+    <string name="library_import_button">Add book</string>
+    <string name="library_search_open">Search library</string>
+    <string name="library_search_close">Close search</string>
+    <string name="library_search_hint">Search by title or author</string>
+    <string name="library_search_clear">Clear search</string>
+    <string name="library_search_no_results">No books match your search.</string>
+    <string name="library_sort">Sort library</string>
+    <string name="library_sort_added">Recently added</string>
+    <string name="library_sort_title">Title</string>
+    <string name="library_sort_author">Author</string>
+    <string name="library_sort_opened">Recently opened</string>
+    <string name="library_importing">Importing…</string>
+    <string name="library_import_done">Imported %1$s</string>
+    <string name="library_delete_book">Remove</string>
+    <string name="library_delete_title">Remove book</string>
+    <string name="library_delete_confirm">Remove this book from your library?</string>
+    <string name="library_delete_cancel">Cancel</string>
+    <string name="library_progress_percent">%1$d%%</string>
+
+    <!-- Import errors -->
+    <string name="import_error_unreadable">Couldn\'t read the selected file. Try picking it again.</string>
+    <string name="import_error_unsupported">This file isn\'t a supported DRM-free EPUB or PDF.</string>
+    <string name="import_error_storage">There isn\'t enough storage space to import this book.</string>
+
+    <!-- Reader -->
+    <string name="reader_back">Back to library</string>
+    <string name="reader_error_open_failed">Couldn\'t open this book. The file may be damaged or in a format not yet supported.</string>
+    <string name="reader_error_jump_failed">Couldn\'t open that spot in the book. Try again.</string>
+    <string name="reader_error_position_restore_failed">Couldn\'t restore your last position, so this book opened at the start.</string>
+    <string name="reader_settings_open">Reading settings</string>
+    <string name="reader_settings_title">Reading settings</string>
+    <string name="reader_settings_theme">Theme</string>
+    <string name="reader_theme_day">Day</string>
+    <string name="reader_theme_sepia">Sepia</string>
+    <string name="reader_theme_night">Night</string>
+    <string name="reader_settings_font">Font</string>
+    <string name="reader_settings_font_preview">The quick brown fox jumps over the lazy dog.</string>
+    <string name="reader_settings_font_note">Bundled with the app, so every choice works offline.</string>
+    <string name="reader_settings_text_size">Text size</string>
+    <string name="reader_settings_margins">Margins</string>
+    <string name="reader_settings_line_spacing">Line spacing</string>
+    <string name="reader_settings_auto_advance">Auto-advance chapters</string>
+    <string name="reader_settings_auto_advance_hint">At either end of a chapter, pull past the text to move to the next or previous chapter.</string>
+    <string name="reader_settings_brightness">Brightness</string>
+    <string name="reader_settings_brightness_auto">Follow system</string>
+    <string name="reader_settings_brightness_value">%1$d%%</string>
+    <string name="reader_settings_pdf_layout">Page layout</string>
+    <string name="reader_settings_pdf_scroll">Continuous scroll</string>
+    <string name="reader_settings_pdf_paginated">Paginated</string>
+    <string name="reader_settings_pdf_fit">Page fit</string>
+    <string name="reader_settings_pdf_fit_page">Whole page</string>
+    <string name="reader_settings_pdf_fit_width">Page width</string>
+    <string name="reader_more_actions">More reading tools</string>
+
+    <!-- Reader: table of contents -->
+    <string name="reader_toc_open">Table of contents</string>
+    <string name="reader_toc_title">Contents</string>
+    <string name="reader_toc_empty">This book has no table of contents.</string>
+    <plurals name="reader_toc_chapter_count">
+        <item quantity="one">%1$d chapter</item>
+        <item quantity="other">%1$d chapters</item>
+    </plurals>
+    <string name="reader_toc_search_open">Search chapters</string>
+    <string name="reader_toc_search_hint">Search chapters</string>
+    <string name="reader_toc_search_clear">Clear chapter search</string>
+    <string name="reader_toc_search_close">Close chapter search</string>
+    <string name="reader_toc_search_count">Showing %1$d of %2$d</string>
+    <string name="reader_toc_search_no_results">No chapters match your search.</string>
+    <string name="reader_toc_jump_short">Go to…</string>
+    <string name="reader_toc_jump_title">Go to position</string>
+    <string name="reader_toc_jump_value">%1$d%% through the book</string>
+    <string name="reader_toc_jump_action">Go</string>
+
+    <!-- Reader: pull past the end of a chapter -->
+    <string name="reader_pull_next_hint">Keep pulling for next chapter</string>
+    <string name="reader_pull_next_release">Release for next chapter</string>
+    <string name="reader_pull_prev_hint">Keep pulling for previous chapter</string>
+    <string name="reader_pull_prev_release">Release for previous chapter</string>
+
+    <!-- Reader: search -->
+    <string name="reader_search_open">Search in book</string>
+    <string name="reader_search_hint">Search in this book</string>
+    <string name="reader_search_clear">Clear search</string>
+    <string name="reader_search_close">Close search</string>
+    <string name="reader_search_no_results">No matches found.</string>
+    <string name="reader_search_unavailable">This book can\'t be searched.</string>
+    <string name="reader_search_progress">%1$d%% through the book</string>
+
+    <!-- Reader: bookmarks -->
+    <string name="reader_bookmarks_open">Bookmarks</string>
+    <string name="reader_bookmarks_title">Bookmarks</string>
+    <string name="reader_bookmarks_empty">No bookmarks yet. Use the + button to add one at your current page.</string>
+    <string name="reader_bookmark_add_here">Bookmark current page</string>
+    <string name="reader_bookmark_delete">Delete bookmark</string>
+    <!-- Reader: highlights and notes -->
+    <string name="reader_highlights_open">Highlights and notes</string>
+    <string name="reader_highlights_title">Highlights</string>
+    <string name="reader_highlights_hint">To add a highlight, select text in the book, then choose Highlight from the selection menu.</string>
+    <string name="reader_highlights_empty">No highlights yet.</string>
+    <string name="reader_highlight_add">Highlight</string>
+    <string name="reader_highlight_selection_failed">Couldn\'t read that selection. Select the text again and retry.</string>
+    <string name="reader_highlight_note_add">Add note</string>
+    <string name="reader_highlight_note_title">Note</string>
+    <string name="reader_highlight_note_hint">Write a note…</string>
+    <string name="reader_highlight_note_empty_hint">Add a note to this highlight</string>
+    <string name="reader_highlight_save">Save</string>
+    <string name="reader_highlight_delete">Delete highlight</string>
+    <string name="reader_highlight_dismiss">Cancel</string>
+    <string name="reader_highlight_no_text">Selected text</string>
+    <string name="reader_highlight_edit_note">Edit note</string>
+    <string name="reader_color_yellow">Yellow</string>
+    <string name="reader_color_green">Green</string>
+    <string name="reader_color_blue">Blue</string>
+    <string name="reader_color_pink">Pink</string>
+
+    <!-- Settings hub -->
+    <string name="common_back">Back</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="settings_open">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_help">Help &amp; Support</string>
+    <string name="settings_terms">Terms of Service</string>
+    <string name="settings_privacy">Privacy Policy</string>
+
+    <!-- Help and support -->
+    <string name="help_title">Help &amp; Support</string>
+    <string name="help_intro">BookAppp opens the DRM-free EPUB and PDF files already on your device. These are the questions readers ask most.</string>
+    <string name="help_faq_title">Common questions</string>
+    <string name="help_faq_add_q">How do I add a book?</string>
+    <string name="help_faq_add_a">Tap the + button in the Library, then pick an EPUB or PDF file. The app copies the file into its own storage, so the book keeps working even if you move or delete the original.</string>
+    <string name="help_faq_formats_q">Which file formats can I open?</string>
+    <string name="help_faq_formats_a">DRM-free EPUB 2 and EPUB 3 books, and PDF files. Other formats such as MOBI, AZW3, or KFX are not supported.</string>
+    <string name="help_faq_open_q">Why won\'t my book open?</string>
+    <string name="help_faq_open_a">The usual causes are DRM protection or a damaged file. BookAppp cannot open FairPlay, Adobe ADEPT, or Kindle DRM books. If the file is DRM-free, try importing it again in case the first import was interrupted.</string>
+    <string name="help_faq_reading_q">Can I change the font, theme, and brightness?</string>
+    <string name="help_faq_reading_a">Yes. While reading, open the reading settings to switch between Day, Sepia, and Night, change the font, text size, margins, and line spacing, and set brightness. EPUB books keep your position when you change these.</string>
+    <string name="help_faq_notes_q">Where do my bookmarks, highlights, and notes live?</string>
+    <string name="help_faq_notes_a">They are stored with the book and listed from the reader, so you can jump back to a marked page at any time.</string>
+    <string name="help_faq_delete_q">What happens when I remove a book?</string>
+    <string name="help_faq_delete_a">The app\'s copy of the book is deleted along with its reading position, bookmarks, highlights, and notes. The original file you imported is left untouched.</string>
+    <string name="help_faq_privacy_q">Does the app send my books anywhere?</string>
+    <string name="help_faq_privacy_a">No. Everything stays on your device, and the app has no internet permission. The privacy policy has the details.</string>
+    <string name="help_contact_title">Still need help?</string>
+    <string name="help_contact_body">Email us and we will get back to you. Include your Android version and a short description of what happened.</string>
+    <string name="help_contact_button">Email support</string>
+    <string name="help_contact_email">support@bookappp.app</string>
+    <string name="help_contact_subject">BookAppp support</string>
+    <string name="help_no_email_app">No email app is installed on this device.</string>
+
+    <!-- Legal documents (text lives in res/raw so it stays readable and unescaped) -->
+    <string name="terms_title">Terms of Service</string>
+    <string name="privacy_title">Privacy Policy</string>
+    <string name="legal_loading">Loading…</string>
+    <string name="legal_load_failed">Couldn\'t load this document.</string>
+
+    <!-- Open-source licenses -->
+    <string name="licenses_title">Open-source licenses</string>
+    <string name="licenses_back">Back</string>
+    <string name="licenses_intro">BookAppp is built with the open-source components below, including reader fonts. Their copyright notices and full license texts are included here.</string>
+    <string name="licenses_notice_summary">%1$s — %2$s</string>
+    <string name="licenses_texts_title">License texts</string>
+    <string name="licenses_show_text">Show %1$s</string>
+    <string name="licenses_hide_text">Hide %1$s</string>
+    <string name="licenses_loading">Loading…</string>
+</resources>

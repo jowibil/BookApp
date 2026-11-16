@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Container the reader host fragment is attached to. It is deliberately distinct
+         from reader_navigator_container inside the host's own layout, so fragment lookup
+         and restoration are unambiguous. -->
+    <item name="reader_host_container" type="id" />
+</resources>

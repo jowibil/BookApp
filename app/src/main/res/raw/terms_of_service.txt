@@ -1,0 +1,49 @@
+# BookAppp Terms of Service
+
+Last updated: November 15, 2026
+
+These terms govern your use of the BookAppp app for Android. By installing or using the app you agree to them. If you do not agree, please do not use the app.
+
+# 1. What the app is
+
+BookAppp is a local e-book reader. It opens DRM-free EPUB and PDF files that are already on your device. It is not a bookstore, it does not sell or supply books, and it does not provide any reading content of its own.
+
+# 2. Your licence to use the app
+
+We grant you a personal, non-exclusive, non-transferable, revocable licence to install and use BookAppp on devices you own or control. You may keep personal copies for your own reading. You may not sell, rent, sublicense, or redistribute the app, and you may not use our name, icon, or artwork in connection with anything you distribute.
+
+# 3. The books you add
+
+You keep all rights in the files you import. BookAppp stores its own copy inside the app so the book keeps working if you move or delete the original, and it never uploads anything. You are responsible for making sure you have the right to read every file you add. Importing or reading content you have no legal right to use is your responsibility, not ours.
+
+# 4. DRM-protected books
+
+The app is designed for DRM-free files. It does not bypass, remove, or work around copy protection, and it will not open FairPlay, Adobe ADEPT, Kindle, or other DRM-protected books. Trying to use the app for that purpose is not permitted.
+
+# 5. Acceptable use
+
+Do not use the app to break the law, to infringe anyone's copyright, or to interfere with the security of your device or other people's devices. Do not attempt to reverse engineer or modify the app, except where the law expressly allows it. Do not remove or alter licence notices in the app.
+
+# 6. Open-source components
+
+BookAppp is built on open-source software, including the Readium Kotlin Toolkit. Those components remain under their own licences, and their notices and full licence texts are available from Settings > Open-source licenses. Nothing in these terms restricts rights you have under those licences.
+
+# 7. No warranty
+
+The app is provided "as is" and "as available", without warranties of any kind, express or implied, including fitness for a particular purpose and non-infringement. We do not promise that the app will open every file, that it will always be available, or that it is free of defects. Some jurisdictions do not allow the exclusion of certain warranties, so parts of this section may not apply to you.
+
+# 8. Limitation of liability
+
+To the extent permitted by law, we are not liable for indirect, incidental, special, consequential, or punitive damages, or for lost files, lost data, or lost reading positions arising from your use of the app. Where liability cannot be excluded, it is limited to the amount you paid for the app. Nothing here limits liability for fraud, wilful misconduct, or any liability that the law does not allow to be limited.
+
+# 9. Changes to the app and these terms
+
+We may change, update, or discontinue parts of the app. We may also update these terms; the date at the top of this document shows when it last changed. If a change is material, we will show the updated terms in the app. Continuing to use the app after an update means you accept the updated terms.
+
+# 10. Consumer rights and governing law
+
+These terms are governed by the laws of the country where you live. Nothing in them limits rights you have under mandatory consumer protection law in your country.
+
+# 11. Contact
+
+Questions about these terms can be sent to support@bookappp.app.
